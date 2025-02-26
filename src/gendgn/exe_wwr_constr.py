@@ -8,12 +8,11 @@ import numpy as np
 import ifcopenshell
 import ifcopenshell.geom
 import geomie3d
-from geomie3d import geom
-import geomie3d.viz
 import ifc_utils
 import jsonschema
 
 from . import settings
+# import geomie3d.viz
 #===================================================================================================
 # region: FUNCTIONS
 #===================================================================================================
